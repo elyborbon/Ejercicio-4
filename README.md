@@ -1,2 +1,2 @@
 # Ejercicio-4
-Tabla Paises, pivot
+Tabla Paises, Dtaframe (pivot)
